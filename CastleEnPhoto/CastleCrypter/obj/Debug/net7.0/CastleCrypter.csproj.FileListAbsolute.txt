@@ -1,0 +1,15 @@
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\bin\Debug\net7.0\CastleCrypter.exe
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\bin\Debug\net7.0\CastleCrypter.deps.json
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\bin\Debug\net7.0\CastleCrypter.runtimeconfig.json
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\bin\Debug\net7.0\CastleCrypter.dll
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\bin\Debug\net7.0\CastleCrypter.pdb
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.AssemblyInfo.cs
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.dll
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\refint\CastleCrypter.dll
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.pdb
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\CastleCrypter.genruntimeconfig.cache
+C:\Users\Tim\Desktop\C#\CastleEnPhoto\CastleCrypter\obj\Debug\net7.0\ref\CastleCrypter.dll
